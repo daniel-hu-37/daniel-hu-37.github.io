@@ -16,10 +16,10 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+I'm a junior at Princeton University majoring in Computer Science and pursuing minors in
+Optimization & Quantitative Decision Sciences as well as Cognitive Science. At Princeton, I'm active in
+the Association for Computing Machinery, Princeton University Nonprofit Consulting, and Princeton Consulting Group.
+I'm also the current Music Director of Old Nassoul and the Vice President Emeritus of the Asian American Students' Association.
 
-I'm 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I grew up in Queens, New York and attended High School at the Trinity School, where I explored my many interests:
+they ranged from track and field to Latin to Academic Quiz Bowl. I often had opportunities to explore technology specifically, interning at JP Morgan Chase & Co. as part of the Financial Crimes Transaction Monitoring Team and participating in Prep for Prep's Institute for Entrepreneurship.
