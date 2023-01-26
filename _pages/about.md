@@ -6,17 +6,19 @@ subtitle: Princeton Computer Science, Class of 2024
 
 profile:
   align: right
-  image: prof_pic.png
+  image: ons.png
   image_circular: false # crops the image to make it circular
   address: >
 
   # No address
 
+projects: true
+experience: true
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I'm a junior at Princeton University majoring in Computer Science and pursuing minors in
+I'm a **Junior** at **Princeton University** majoring in **Computer Science** and pursuing minors in
 Optimization & Quantitative Decision Sciences as well as Cognitive Science. At Princeton, I'm active in
 the Association for Computing Machinery, Princeton University Nonprofit Consulting, and Princeton Consulting Group.
 I'm also the current Music Director of Old Nassoul and the Vice President Emeritus of the Asian American Students' Association.

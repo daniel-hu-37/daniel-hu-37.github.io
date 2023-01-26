@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: pre-ipo sentiment analysis
+description: I performed sentiment analysis on tweets from before an IPO using VADER and FINBERT and correlated them to stock performance.
+emoji: ':chart_with_upwards_trend:'
+img:
 importance: 2
 category: work
 ---

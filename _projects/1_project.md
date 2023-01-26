@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+emoji: ':book:'
+title: student directory
+description: lookup is a student directory that allows Princeton students to find other students and their email. It also allows students to create public and private groups and maintain a list of contacts.
+img:
 importance: 1
 category: work
 ---

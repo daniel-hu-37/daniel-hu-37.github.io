@@ -1,7 +1,8 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: ARC cache
+description: I implemented an Adaptive Replacement Cache using Python and tested its hit rate against LRU and LFU caches.
+emoji: ':moneybag:'
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
